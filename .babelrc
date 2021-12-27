@@ -1,7 +1,9 @@
 {
   "plugins": [
     "transform-object-assign",
-    "transform-object-rest-spread"
+    "transform-object-rest-spread",
+    "transform-class-properties",
+    "syntax-class-properties"
   ],
   "presets": [
     [
